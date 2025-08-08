@@ -6,7 +6,7 @@ on:
     inputs:
       firstname:
         type: string
-        default: Sylvain
+        default: Paul
         required: true
     
       
